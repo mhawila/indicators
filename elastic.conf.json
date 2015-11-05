@@ -1,0 +1,4 @@
+{
+    "host": "https://etl.ampath.or.ke/elastic",
+    "log_level": "debug"
+}

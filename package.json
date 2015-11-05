@@ -1,0 +1,21 @@
+{
+  "name": "indicators",
+  "version": "0.0.1",
+  "description": "Rest endpoints for patient data indicators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "elasticsearch": "^9.0.0",
+    "fs": "0.0.2",
+    "good": "^6.4.0",
+    "good-console": "^5.1.0",
+    "hapi": "^11.0.2",
+    "hapi-auth-basic": "^3.0.0",
+    "lodash": "^3.10.1"
+  }
+}
